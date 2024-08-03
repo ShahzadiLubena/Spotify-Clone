@@ -1,0 +1,31 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.flex{
+ display: flex;
+}
+.justift-content{
+justify-content: center;
+}
+.items-center{
+align-items: center;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+    /* width: 100vw; */
+}
+.bg-grey{
+    background-color: #121212;
+    /* width: 100vw; */
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.p-1{
+    padding: 2px;
+}
